@@ -1,0 +1,19 @@
+📄 UID Vibrational Validation Summary (BΦ-Logic)
+==================================================
+🔎 Unique status entries found: ['Accepted', 'Rejected']
+
+🔖 First 5 Entries:
+                          timestamp            uid  bscore   status
+2025-06-28T12:59:16.238810125+00:00 Φ_cc92d526a526  0.9021 Accepted
+2025-06-28T12:59:16.338909326+00:00 Φ_1cd8d9510ae1  0.9269 Accepted
+2025-06-28T12:59:16.439041489+00:00 Φ_22bf532448ac  0.9021 Accepted
+2025-06-28T12:59:16.539218989+00:00 Φ_af5c5227b064  0.8123 Rejected
+2025-06-28T12:59:16.639400425+00:00 Φ_460d9f6e83a3  0.8321 Rejected
+
+📊 Totals:
+✅ Accepted: 15018
+❌ Rejected: 18027
+
+📏 Mean B-score [Accepted]: 0.9627
+📏 Mean B-score [Rejected]: 0.8250
+==================================================
